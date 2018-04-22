@@ -1,0 +1,84 @@
+typography_spectrum: 0.27046600985340774
+color:
+  brandStrength: 0.6227997357491404
+  lightness: 0.9325878145173192
+  saturation: 0.708993217907846
+  rhythmicContrast: 0.2448523382190615
+  brandColors:
+    - '#CEDE00'
+    - '#FFFFFF'
+    - '#EB008B'
+    - '#303E48'
+    - '#E14C5B'
+layout_spectrum: 0.6989056647289544
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb1c431a-d85c-4466-8fb5-6635bcd95b70.png
+name: Netko
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: BitcoinTalk Forum
+    url: 'https://bitcointalk.org/index.php?topic=1810858.0'
+    type: external
+  - name: Blockexplorer
+    url: 'https://chainz.cryptoid.info/netko/'
+    type: external
+  - name: Telegram
+    url: 'https://t.me/NetkoCoin'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/NetkoCoin'
+    type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/NetkoCoin/'
+    type: external
+  - name: Cryptopia Exchange
+    url: 'https://goo.gl/k0fzVy'
+    type: external
+  - name: Yobit Exchange
+    url: 'https://goo.gl/YpfFQQ'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f15e91fc-1ca6-419a-ad7e-0ebae8a89830.png
+title: NETKO
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5dc94f1-d874-4d72-b330-4cbadec27fc2.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5dc94f1-d874-4d72-b330-4cbadec27fc2.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: The Cryptocurrency NETKO is a project by a Slovenian IT company netko.it
+purpose:
+  - type: external
+    url: 'https://github.com/netkotech/netko'
+    label: Wallet and Source
+  - type: external
+    url: 'https://coinmarketcap.com/currencies/netko/'
+    label: Netko Markets
+github: true
+content_rating:
+  adult: false
